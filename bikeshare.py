@@ -26,6 +26,7 @@ def get_filters():
     
     # To reduce user input error a number is assigned to each city
     # This also has the added benefit of dynamically updating the user message if a new city is added
+    # I could see myself living in one of these cities!
     city = ''
     cities = []
     for city_name in CITY_DATA:
