@@ -10,6 +10,18 @@ This Python script is written for the python portion of the Intro to Data Scienc
 ### How to run the script
 You can run the script using a Python integrated development environment (IDE) such as Spyder. To install Spyder, you will need to download the Anaconda installer. This script is written in Python 3, so you will need the Python 3.x version of the installer. After downloading and installing Anaconda, you will find the Spyder IDE by opening Anaconda Navigator.
 
+### Questions explored
+The script answers the following questions about the bike share data:
+•    What is the most popular month for start time?
+•    What is the most popular day of week (Monday, Tuesday, etc.) for start time?
+•    What is the most popular hour of day for start time?
+•    What is the total trip duration and average trip duration?
+•    What is the most popular start station and most popular end station?
+•    What is the most popular trip?
+•    What are the counts of each user type?
+•    What are the counts of gender?
+•    What are the earliest aka oldest rider, most recent aka youngest rider, and most common birth year?
+
 
 ### Files used
 bikeshare.py
