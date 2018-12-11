@@ -1,0 +1,239 @@
+Last login: Fri Dec  7 20:11:27 on console
+USCBD-179HTD8:~ kesslei$ ~./Git
+-bash: ~./Git: No such file or directory
+USCBD-179HTD8:~ kesslei$ cd ~./Git
+-bash: cd: ~./Git: No such file or directory
+USCBD-179HTD8:~ kesslei$ cd ~/Git
+-bash: cd: /Users/kesslei/Git: No such file or directory
+USCBD-179HTD8:~ kesslei$ cd ~/documents
+USCBD-179HTD8:documents kesslei$ ls -l
+total 40
+drwxr-xr-x@  3 kesslei  AMER\Domain Users    96 Mar 15  2018 $RECYCLE.BIN
+-rwxr-xr-x@  1 kesslei  AMER\Domain Users  9555 Mar 21  2018 Book1.xlsx
+drwxr-xr-x   2 kesslei  AMER\Domain Users    64 Aug  2 16:16 Custom Office Templates
+drwxr-xr-x   3 kesslei  AMER\Domain Users    96 Dec  7 20:23 GitHub
+drwxr-xr-x   5 kesslei  AMER\Domain Users   160 Apr 18  2018 Microsoft User Data
+drwxr-xr-x   9 kesslei  AMER\Domain Users   288 Jul  9 13:33 My Data Sources
+drwxr-xr-x  12 kesslei  AMER\Domain Users   384 Mar 20  2018 My Tableau Repository
+drwxr-xr-x   3 kesslei  AMER\Domain Users    96 Jul 10 17:37 Trash
+drwxr-xr-x   4 kesslei  AMER\Domain Users   128 Mar 15  2018 Virtual Machines
+drwxr-xr-x@  2 kesslei  AMER\Domain Users    64 Oct 23 11:02 WebEx
+-rwxr-xr-x@  1 kesslei  AMER\Domain Users   418 Nov  6 10:11 desktop.ini
+-rwxr-xr-x@  1 kesslei  AMER\Domain Users   165 Mar 21  2018 ~$Book1.xlsx
+USCBD-179HTD8:documents kesslei$ cd ~./GitHub
+-bash: cd: ~./GitHub: No such file or directory
+USCBD-179HTD8:documents kesslei$ cd ~/GitHub
+-bash: cd: /Users/kesslei/GitHub: No such file or directory
+USCBD-179HTD8:documents kesslei$ ls -l
+total 40
+drwxr-xr-x@  3 kesslei  AMER\Domain Users    96 Mar 15  2018 $RECYCLE.BIN
+-rwxr-xr-x@  1 kesslei  AMER\Domain Users  9555 Mar 21  2018 Book1.xlsx
+drwxr-xr-x   2 kesslei  AMER\Domain Users    64 Aug  2 16:16 Custom Office Templates
+drwxr-xr-x   3 kesslei  AMER\Domain Users    96 Dec  7 20:23 GitHub
+drwxr-xr-x   5 kesslei  AMER\Domain Users   160 Apr 18  2018 Microsoft User Data
+drwxr-xr-x   9 kesslei  AMER\Domain Users   288 Jul  9 13:33 My Data Sources
+drwxr-xr-x  12 kesslei  AMER\Domain Users   384 Mar 20  2018 My Tableau Repository
+drwxr-xr-x   3 kesslei  AMER\Domain Users    96 Jul 10 17:37 Trash
+drwxr-xr-x   4 kesslei  AMER\Domain Users   128 Mar 15  2018 Virtual Machines
+drwxr-xr-x@  2 kesslei  AMER\Domain Users    64 Oct 23 11:02 WebEx
+-rwxr-xr-x@  1 kesslei  AMER\Domain Users   418 Nov  6 10:11 desktop.ini
+-rwxr-xr-x@  1 kesslei  AMER\Domain Users   165 Mar 21  2018 ~$Book1.xlsx
+USCBD-179HTD8:documents kesslei$ cd ./GitHub/
+USCBD-179HTD8:GitHub kesslei$ ls 0l
+ls: 0l: No such file or directory
+USCBD-179HTD8:GitHub kesslei$ ls 
+pdsnd_github
+USCBD-179HTD8:GitHub kesslei$ ls -l
+total 0
+drwxr-xr-x  4 kesslei  AMER\Domain Users  128 Dec  7 20:23 pdsnd_github
+USCBD-179HTD8:GitHub kesslei$ mv
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+USCBD-179HTD8:GitHub kesslei$ cp
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file ... target_directory
+USCBD-179HTD8:GitHub kesslei$ cd bikeshare.py /Github
+-bash: cd: bikeshare.py: No such file or directory
+USCBD-179HTD8:GitHub kesslei$ cp bikeshare.py /Github
+cp: bikeshare.py: No such file or directory
+USCBD-179HTD8:GitHub kesslei$ cd ~/UDACITY_PYTHON_COURSE/
+USCBD-179HTD8:UDACITY_PYTHON_COURSE kesslei$ ls -l
+total 136
+drwxr-xr-x   9 kesslei  AMER\Domain Users    288 Dec  5 17:12 SAMPLE PROJECTS
+-rw-r--r--   1 kesslei  AMER\Domain Users  21596 Dec  3 16:59 Untitled.ipynb
+drwx------@ 10 kesslei  AMER\Domain Users    320 Dec  5 18:08 bikeshare
+-rw-r--r--@  1 kesslei  AMER\Domain Users     35 Nov 12 22:36 dummy_data.txt
+-rw-r--r--@  1 kesslei  AMER\Domain Users    723 Nov  7 19:05 first-script.py.zip
+-rw-r--r--@  1 kesslei  staff                 50 Mar 13  2018 first_script.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users    411 Nov 12 22:07 input_demo.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users    467 Nov 13 21:50 python_adobe_analytics_1_4_test.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users     29 Dec  1 14:59 python_importing_modules.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users    600 Nov 21 19:43 python_open_file_demo.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users    584 Nov 12 21:50 python_scripting_quiz_1_Raw_input.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users    129 Nov 28 10:41 python_too_many_open_files_demo.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users    166 Nov 12 22:36 python_write_file_demo.py
+-rw-r--r--@  1 kesslei  AMER\Domain Users    222 Nov 12 21:10 welcome_to_python_script.py
+USCBD-179HTD8:UDACITY_PYTHON_COURSE kesslei$ cd ./bikeshare/
+USCBD-179HTD8:bikeshare kesslei$ ls -l
+total 207632
+-rw-r--r--  1 kesslei  AMER\Domain Users      8408 Dec  5 18:08 Explore US Bikeshare Python Project.zip
+-rw-r--r--@ 1 kesslei  staff                 16880 Dec  5 17:40 bikeshare.py
+-rw-r--r--@ 1 kesslei  staff              36456381 Feb 21  2018 chicago.csv
+-rw-r--r--@ 1 kesslei  staff              34480788 Feb 21  2018 new_york_city.csv
+-rw-r--r--@ 1 kesslei  AMER\Domain Users     14098 Dec  5 18:04 readme.rtf
+-rw-r--r--@ 1 kesslei  staff              35313411 Feb 21  2018 washington.csv
+USCBD-179HTD8:bikeshare kesslei$ cp ~/UDACITY_PYTHON_COURSE/bikeshare/bikeshare.py ~/GitHub/
+cp: directory /Users/kesslei/GitHub does not exist
+USCBD-179HTD8:bikeshare kesslei$ cp ~/UDACITY_PYTHON_COURSE/bikeshare/bikeshare.py ~/Do
+Documents/ Downloads/ 
+USCBD-179HTD8:bikeshare kesslei$ cp ~/UDACITY_PYTHON_COURSE/bikeshare/bikeshare.py ~/Do
+Documents/ Downloads/ 
+USCBD-179HTD8:bikeshare kesslei$ cp ~/UDACITY_PYTHON_COURSE/bikeshare/bikeshare.py ~/Documents/GitHub/pdsnd_github/
+USCBD-179HTD8:bikeshare kesslei$ cd ~/Documents/GitHub/
+USCBD-179HTD8:GitHub kesslei$ ls
+pdsnd_github
+USCBD-179HTD8:GitHub kesslei$ cd ./pdsnd_github/
+USCBD-179HTD8:pdsnd_github kesslei$ ls -l
+total 48
+-rw-r--r--  1 kesslei  AMER\Domain Users    350 Dec  7 20:23 README.md
+-rw-r--r--@ 1 kesslei  AMER\Domain Users  16880 Dec  7 20:32 bikeshare.py
+USCBD-179HTD8:pdsnd_github kesslei$ cp ~/UDACITY_PYTHON_COURSE/bikeshare/washington.csv ~/Documents/GitHub/pdsnd_github/
+USCBD-179HTD8:pdsnd_github kesslei$ cp ~/UDACITY_PYTHON_COURSE/bikeshare/new_york_city.csv ~/Documents/GitHub/pdsnd_github/
+USCBD-179HTD8:pdsnd_github kesslei$ cp ~/UDACITY_PYTHON_COURSE/bikeshare/chicago.csv ~/Documents/GitHub/pdsnd_github/
+USCBD-179HTD8:pdsnd_github kesslei$ ls -l
+total 207584
+-rw-r--r--  1 kesslei  AMER\Domain Users       350 Dec  7 20:23 README.md
+-rw-r--r--@ 1 kesslei  AMER\Domain Users     16880 Dec  7 20:32 bikeshare.py
+-rw-r--r--@ 1 kesslei  AMER\Domain Users  36456381 Dec  7 20:34 chicago.csv
+-rw-r--r--@ 1 kesslei  AMER\Domain Users  34480788 Dec  7 20:34 new_york_city.csv
+-rw-r--r--@ 1 kesslei  AMER\Domain Users  35313411 Dec  7 20:33 washington.csv
+USCBD-179HTD8:pdsnd_github kesslei$ mv ~/Downloads/udacity-terminal-config/ ~/UDACITY_PYTHON_COURSE/
+USCBD-179HTD8:pdsnd_github kesslei$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
+	bikeshare.py
+	chicago.csv
+	new_york_city.csv
+	washington.csv
+
+nothing added to commit but untracked files present (use "git add" to track)
+USCBD-179HTD8:pdsnd_github kesslei$ git add bikeshare.py 
+USCBD-179HTD8:pdsnd_github kesslei$ git commit
+Aborting commit due to empty commit message.
+USCBD-179HTD8:pdsnd_github kesslei$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   bikeshare.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
+	chicago.csv
+	new_york_city.csv
+	washington.csv
+
+USCBD-179HTD8:pdsnd_github kesslei$ git init
+Reinitialized existing Git repository in /Users/kesslei/Documents/GitHub/pdsnd_github/.git/
+USCBD-179HTD8:pdsnd_github kesslei$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   bikeshare.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
+	chicago.csv
+	new_york_city.csv
+	washington.csv
+
+USCBD-179HTD8:pdsnd_github kesslei$ git commit
+hint: Waiting for your editor to close the file... error: There was a problem with the editor 'vi'.
+Please supply the message using either -m or -F option.
+USCBD-179HTD8:pdsnd_github kesslei$ -m
+-bash: -m: command not found
+USCBD-179HTD8:pdsnd_github kesslei$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   bikeshare.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
+	chicago.csv
+	new_york_city.csv
+	washington.csv
+
+USCBD-179HTD8:pdsnd_github kesslei$ git commit
+hint: Waiting for your editor to close the file... 
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#       new file:   bikeshare.py
+#
+# Untracked files:
+#       .gitignore
+#       chicago.csv
+#       new_york_city.csv
+#       washington.csv
+#
+Initial Commit for my Git project for the Udacity Data Science program. Let's get to cycling!
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+~                                                                                             
+
