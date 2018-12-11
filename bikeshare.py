@@ -373,7 +373,7 @@ def master_reset_options():
 
 def main():
     while True:
-        # set the users inputs to local variables for use this analysis
+        # set the users inputs to local variables for use this analysis 
         city, month, day = get_filters()
 
         # load data to dataframe from the CSV file identified by user input
