@@ -5,7 +5,11 @@
 BikeShare Analysis | Udacity Data Science Programming
 
 ### Description
-Data Science program run by Udacity.com that is having us create a Python Script that can analyze 3 different cities and compute multiple relevant statistical analyses to provide to a user in a terminal interface.
+This Python script is written for the python portion of the Intro to Data Science on Udacity and is used to explore data related to bike share systems for Chicago, New York City, and Washington. It imports data from a specified csv files of data and computes relevant statistics from said data. This project provides an interactive experience in the terminal to present these statistics.
+
+### How to run the script
+You can run the script using a Python integrated development environment (IDE) such as Spyder. To install Spyder, you will need to download the Anaconda installer. This script is written in Python 3, so you will need the Python 3.x version of the installer. After downloading and installing Anaconda, you will find the Spyder IDE by opening Anaconda Navigator.
+
 
 ### Files used
 bikeshare.py
