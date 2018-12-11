@@ -357,6 +357,7 @@ def master_reset_options():
     rabbit_hole_status = ""
     restart = ""
     while True:
+        # This provides a reusable message that will confirm that the user is enjoying their experience AND if they want to start the program ("reset") from the beginning
         rabbit_hole_status = input('\n Everything good so far?\n If so enter \'yes\' (or just press the \'ENTER\' button) \n... if you\'re having a bad ride enter \'no\' here:')
         if rabbit_hole_status.lower() == 'no':
             restart = input('\nWould you like to restart? Enter yes or no.\n')
