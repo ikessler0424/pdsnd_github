@@ -334,6 +334,7 @@ def user_stats(df, city):
 
 
             # Display earliest, most recent, and most common year of birth
+            # Could refactor this code to show the actual age for each of the below stats
             birth_year_min = df['Birth Year'].min()
             birth_year_max = df['Birth Year'].max()
             birth_years_most_common = df['Birth Year'].value_counts()
