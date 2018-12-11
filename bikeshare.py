@@ -340,7 +340,7 @@ def user_stats(df, city):
 
             print("\nCheck out the the oldest and youngest customers, as well as your most popular age \n")
             print("The Oldest Customer is: {} years old \n".format(2018-int(birth_year_min)))
-            print("The Youngest Customer was born in: {} \n".format(int(birth_year_max)))
+            print("The Youngest Customer is: {} years old \n".format(2018-int(birth_year_max)))
             print("Most popular Customer age: {} \n".format(int(birth_years_most_common.index[0])))
             break
 
